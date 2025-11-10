@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\LAMPS\LAMPS\bin\Debug\LAMPS.exe.config
+C:\Users\aluno\source\repos\LAMPS\LAMPS\bin\Debug\LAMPS.exe
+C:\Users\aluno\source\repos\LAMPS\LAMPS\bin\Debug\LAMPS.pdb
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.Form1.resources
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.Properties.Resources.resources
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.exe
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.pdb
+C:\Users\aluno\source\repos\LAMPS\LAMPS\obj\Debug\LAMPS.exe.config
